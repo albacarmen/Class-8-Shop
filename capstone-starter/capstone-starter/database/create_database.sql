@@ -108,7 +108,7 @@ VALUES  (1, 'Joe', 'Joesephus', '800-555-1234', 'joejoesephus@email.com', '789 O
 /* INSERT Categories */
 INSERT INTO categories (name, description) 
 VALUES  ('Electronics', 'Explore the latest gadgets and electronic devices.'),
-        ('Fashion', 'Discover trendy clothing and accessories for men and women.'),
+        ('Fashion', 'Discover trendy clothing from class 8'),
         ('Home & Kitchen', 'Find everything you need to decorate and equip your home.');
 
 /* INSERT Products */
