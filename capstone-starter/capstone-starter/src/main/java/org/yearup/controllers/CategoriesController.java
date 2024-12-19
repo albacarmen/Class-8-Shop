@@ -51,7 +51,7 @@ public class CategoriesController
         Category category;
         try{
             category = categoryDao.getById(id);
-        }catch(Exception e){
+        } catch(Exception e) {
             throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Oops... our bad.");
         }
 
