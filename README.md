@@ -67,11 +67,11 @@ EasyShop is a backend API for an online shopping platform built with **Spring Bo
 ---
 ## Demo
 - No duplicates
-![SCS.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2FSCS.png)
+![SCS.png](imgs%2FSCS.png)
 - Filtering by color and Price
-![SCS2.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2FSCS2.png)
+![SCS2.png](imgs%2FSCS2.png)
 - Postman test passed
-![3.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2F3.png)
+![3.png](imgs%2F3.png)
 
 ## How to Run
 
