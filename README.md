@@ -108,7 +108,7 @@ EasyShop is a backend API for an online shopping platform built with **Spring Bo
 
 Special thanks to:
 
-- **Raymond** (Aspect of Taters) for constant guidance and support.
+- **Raymond** for constant guidance and support.
 - **Aaron** and **Corrie** for their patience as I navigated through challenges in Life.
 
 ---
