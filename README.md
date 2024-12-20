@@ -7,7 +7,24 @@
 EasyShop is a backend API for an online shopping platform built with **Spring Boot** and connected to a **MySQL database**. The goal is to provide a fully functional e-commerce system that enables users to browse, search, and purchase products. This project is designed to extend the features of an existing e-commerce application, focusing on fixing bugs, enhancing functionality, and ensuring performance and security for a smooth online shopping experience.
 
 ---
+## User Stories
 
+### As a **User**:
+- I want to browse products organized by category, so I can easily explore items that interest me.
+- I want to filter products by price range, so I can shop within my budget.
+- I want to search for products by color, so I can find items that match my style.
+- I want the interface to be intuitive, so I can navigate through the system easily.
+
+### As an **Owner**:
+- I want to manage product categories, so I can keep my store's inventory organized.
+- I want to manage products, so I can update product details, prices, or remove items as needed.
+- I want to view the system's activity logs, so I can monitor and manage all operations.
+
+### As a **Developer**:
+- I want proper **user authentication** in the API, so I can secure the application and prevent unauthorized access.
+- I want error messages to be meaningful, so I can easily debug and fix issues.
+- I want the codebase to be modular and maintainable, so I can extend or modify features easily.
+- 
 ## Features
 
 ### ✅ **Core Features**
@@ -48,6 +65,13 @@ EasyShop is a backend API for an online shopping platform built with **Spring Bo
 - **API Authorization**: JWT (JSON Web Token)
 
 ---
+## Demo
+- No duplicates
+![SCS.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2FSCS.png)
+- Filtering by color and Price
+![SCS2.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2FSCS2.png)
+- Postman test passed
+![3.png](..%2F..%2F..%2F..%2F..%2FBACKGROUNDLESS%2FNew%20folder%2F3.png)
 
 ## How to Run
 
